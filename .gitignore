@@ -1,0 +1,6 @@
+.settings
+.cproject
+.project
+*.so
+*.o
+hunc_test
